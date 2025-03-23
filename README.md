@@ -1,16 +1,16 @@
 # IA_COMPETENCIA-AI4ENG-UDEA---Semestre-2025-1
-Estudiante 1:
+**Estudiante 1**:
 
-  Nombre completo: Antonia Yepes Quintero
+  **Nombre completo**: Antonia Yepes Quintero
   
-  Cédula: 1036960061
+  **Cédula**: 1036960061
   
-  Programa académico: Bioingeniería
+  **Programa académico**: Bioingeniería
   
-Estudiante 2:
+**Estudiante 2**:
 
-  Nombre completo: Sergio Andres Daza Vasquez
+  **Nombre completo**: Sergio Andres Daza Vasquez
   
-  Cédula: 1010082612
+  **Cédula**: 1010082612
   
-  Programa académico: Bioingeniería
+  **Programa académico**: Bioingeniería
