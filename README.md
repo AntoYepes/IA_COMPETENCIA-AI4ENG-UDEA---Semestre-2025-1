@@ -14,3 +14,5 @@
   **Cédula**: 1010082612
   
   **Programa académico**: Bioingeniería
+
+ **Repositorio para la competencia en Kaggle**: https://www.kaggle.com/competitions/udea-ai4eng-20242
