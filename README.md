@@ -18,3 +18,5 @@
  **Repositorio para la competencia en Kaggle**: https://www.kaggle.com/competitions/udea-ai4eng-20242
 
 **Video_entrega2**: https://youtu.be/8YgVpr-j5Lg
+
+**Video_Final**: 
